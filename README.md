@@ -28,13 +28,13 @@ This project transforms raw Amazon sales data into an interactive Power BI dashb
 </p>
 
 ---
-
+<!--
 **QR Code**
 
 Scan the QR code below to access the interactive Amazon Power BI Dashboard:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3eee8fc4-24ab-4573-be4b-332b06b724bd" alt="Amazon Dashboard QR Code" width="200"/>
-</p>
+</p> 
 
-
+-->
